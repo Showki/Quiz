@@ -1,0 +1,23 @@
+body {  
+    text-align: center;  
+}  
+div#wrapper {  
+    width: 800px;  
+    margin: 0 auto;  
+    text-align: left;  
+    border: 1px solid #FF0000;  
+}  
+
+
+
+
+.big_txt {
+	font-size: 60px;
+	text-align: center;
+}
+
+
+.mega_txt {
+	font-size: 120px;
+	text-align: center;
+}
